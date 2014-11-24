@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menuItemAuthN"
+        android:title="@string/authN_loading"
+        android:enabled="false"
+        android:showAsAction="ifRoom" />
+    <item android:id="@+id/menuItemClose"
+        android:title="@string/close"
+        android:enabled="true"
+        android:showAsAction="never" />
+</menu>

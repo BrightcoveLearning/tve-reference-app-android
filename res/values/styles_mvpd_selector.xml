@@ -1,0 +1,35 @@
+<resources>
+    <!-- partner list item UI styling -->
+    <style name="MvpdListItemContainer">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">?android:attr/listPreferredItemHeight</item>
+        <item name="android:padding">6dip</item>
+        <item name="android:background">#ff000000</item>
+    </style>
+
+    <style name="MvpdListItemIcon">
+        <item name="android:layout_width">80dp</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:layout_alignParentTop">true</item>
+        <item name="android:layout_alignParentBottom">true</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_marginRight">12dip</item>
+        <!-- <item name="android:src">@drawable/icon</item>  -->
+    </style>
+
+    <style name="MvpdListItemName">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_alignParentTop">true</item>
+        <item name="android:layout_alignParentBottom">true</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_alignWithParentIfMissing">true</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_toRightOf">@id/mvpd_logo</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+</resources>

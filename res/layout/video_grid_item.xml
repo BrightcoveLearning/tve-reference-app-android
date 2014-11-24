@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/VideoGridItem"
+    >
+
+    <ImageView
+        android:id="@+id/video_thumbnail"
+        style="@style/VideoGridItemThumb"
+        android:contentDescription="@+id/video_title"
+        />
+
+    <TextView
+        android:id="@+id/video_title"
+        style="@style/VideoGridItemTitle"
+        />
+
+    <ImageView
+        android:id="@+id/video_lock"
+        style="@style/VideoGridItemLock"
+        />
+
+</RelativeLayout>

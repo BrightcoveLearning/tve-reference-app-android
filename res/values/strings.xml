@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AdobePassRefApp</string>
+    <string name="app_title">Brightcove-AdobePass RefApp</string>
+    <string name="authN_loading">Loading&#8230;</string>
+    <string name="authN_login">Sign In</string>
+    <string name="authN_logout">Sign Out</string>
+    <string name="authN_error">ERROR</string>
+    <string name="close">Close</string>
+</resources>

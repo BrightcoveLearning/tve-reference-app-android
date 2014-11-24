@@ -1,0 +1,12 @@
+com.brightcove.auth
+com.brightcove.auth.ap
+com.brightcove.auth.ap.delegates
+com.brightcove.auth.ap.model
+com.brightcove.auth.ap.view
+com.brightcove.auth.model
+com.brightcove.examples
+com.brightcove.examples.adapters
+com.brightcove.examples.delegates
+com.brightcove.examples.model
+com.brightcove.examples.view
+com.brightcove.utils

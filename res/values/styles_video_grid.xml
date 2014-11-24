@@ -1,0 +1,40 @@
+<resources>
+    <!-- partner list item UI styling -->
+    <style name="VideoGridItem">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">4dip</item>
+        <item name="android:orientation">horizontal</item>
+    </style>
+
+    <style name="VideoGridItemThumb">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerVertical">false</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:layout_alignParentTop">true</item>
+        <item name="android:gravity">top</item>
+    </style>
+
+    <style name="VideoGridItemTitle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">10dip</item>
+        <item name="android:layout_alignParentBottom">true</item>
+        <item name="android:layout_centerVertical">false</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:gravity">bottom</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+
+    <style name="VideoGridItemLock">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:layout_alignParentTop">true</item>
+        <item name="android:gravity">top</item>
+        <item name="android:padding">1dip</item>
+        <item name="android:paddingTop">4dip</item>
+    </style>
+</resources>

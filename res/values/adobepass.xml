@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="requestorId">BRIGHTCOVE</string>
+    <string name="signedRequestorId">iJCuokWl63NRbTH1aBsNCkgQpk70+hxzaxM3S4noIOsvEiduGZJVmmpZLitfU8eHJWURYAruIlQnxB4h8nnrBg/tySA9f5x7udvBUikXGGkXUl904lspqxwhBy28P4jOcc+rHmT4BhRxWs8tYx/m42K19D8lSU8C/PSVhKDSG98=</string>
+    <string name="adobePassEndpoint">sp.auth-staging.adobe.com/adobe-services</string>
+</resources>
